@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "arkiv": {
+      "source": "Arkiv-Network/skills",
+      "sourceType": "github",
+      "skillPath": "skills/arkiv/SKILL.md",
+      "computedHash": "5b30b35f1d27007205f4c1360a0e6379c253e99a1a0c78fb3f62aeba85a9cb57"
+    }
+  }
+}
